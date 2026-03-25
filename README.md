@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/amitgupta7061/amitgupta7061/output/snake.svg" />
-</p>
+</p> 
 
 ---
 
