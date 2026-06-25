@@ -69,18 +69,7 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 </p>
----
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinash0011&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=avinash0011&theme=radical&hide_border=false" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash0011&theme=radical&hide_border=false&layout=compact"/>
-</p>
 ---
 
 ## 👾 Fun Fact:
