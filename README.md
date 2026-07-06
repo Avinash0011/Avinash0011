@@ -87,7 +87,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Avinash0011&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avinash0011&theme=tokyo-night&hide_border=true"/>
 </p>
 ---
 
