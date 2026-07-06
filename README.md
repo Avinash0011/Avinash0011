@@ -70,6 +70,25 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 </p>
 
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avinash0011&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash0011&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Avinash0011&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Avinash0011&theme=tokyo-night" />
+</p>
 ---
 
 ## 👾 Fun Fact:
